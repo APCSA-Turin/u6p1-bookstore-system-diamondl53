@@ -3,6 +3,7 @@ package com.example.project;
 public class BookStore{
 
     //requires at least 2 attributes Book[] books, User[] users (initialized to an empty array of 10 max users) 
+    
 
     //requires 1 empty constructor
 
