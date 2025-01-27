@@ -55,5 +55,4 @@ public class User{
         return result;
 
     } //returns  "Name: []\nID: []\nBooks:\n[]"
-       
 }
